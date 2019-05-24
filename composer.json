@@ -1,5 +1,5 @@
 {
-  "name": "CodFee/plugins-system",
+  "name": "codfee/plugins-system",
   "description": "A Laravel and Lumen plugin system",
   "license": "MIT",
   "authors": [
@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-4": {
-      "CodFee\\LaravelPlugins\\": "src/"
+      "codfee\\LaravelPlugins\\": "src/"
     }
   }
 }
