@@ -1,5 +1,5 @@
 <?php
-namespace Oneso\LaravelPlugins;
+namespace CodFee\LaravelPlugins;
 
 use Symfony\Component\Finder\Finder;
 use Symfony\Component\Finder\SplFileInfo;

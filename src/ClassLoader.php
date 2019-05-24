@@ -1,5 +1,5 @@
 <?php
-namespace Oneso\LaravelPlugins;
+namespace CodFee\LaravelPlugins;
 
 class ClassLoader
 {
